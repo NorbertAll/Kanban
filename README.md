@@ -45,8 +45,3 @@ Przypominam komendy:
     npm start
 
 
-## Założenia projektu
-**Specyfikacja projektu**
-![Podgląd](info/KMM_CommunityRelease_2.PNG)
-**Zasady oceniania**
-![Podgląd](info/ZasadyOceniania.PNG)
